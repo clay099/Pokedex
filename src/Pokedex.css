@@ -1,4 +1,11 @@
-.Pokedex-title {
+.Pokedex {
+	border: 1px solid black;
+	margin: 20px;
+	box-shadow: 1px 2px 3px grey;
+	border-radius: 20px;
 	text-align: center;
+}
+
+.Pokedex-title {
 	color: blue;
 }
